@@ -27,7 +27,4 @@ Sou desenvolvedor Full Stack apaixonado por tecnologia, tenho experiência com L
   <a href="https://www.facebook.com/profile.php?id=100004194856878" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:giovani.alves.glv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
