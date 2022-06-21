@@ -1,6 +1,6 @@
 ### Olá 👋, Eu sou o Giovani Alves
 
-Sou desenvolvedor Full Stack apaixonado por tecnologia, tenho experiência com Laravel, Vue.js, SQL e Flutter. Sou graduando do 6° período no curso de Análise e Desenvolvimento de Sistemas pelo IFNMG - Instituto Federal do Norte de Minas Gerais.
+Sou desenvolvedor Full Stack apaixonado por tecnologia, tenho experiência com Laravel, Vue.js, SQL, Flutter e estou no 6° período do curso de Análise e Desenvolvimento de Sistemas pelo IFNMG - Instituto Federal do Norte de Minas Gerais.
 
 - 🌱 Estudando Laravel e Vue.js
 
