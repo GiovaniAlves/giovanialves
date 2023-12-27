@@ -2,7 +2,7 @@
 
 Sou desenvolvedor full stack apaixonado por tecnologia, tenho experiência com Laravel, Vue.js, SQL e Flutter, e estou no 6° período do curso de Análise e Desenvolvimento de Sistemas pelo IFNMG - Instituto Federal do Norte de Minas Gerais.
 
-- 🌱 Estudando Laravel e Vue.js
+- 🌱 Desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/giovanialves">
