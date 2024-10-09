@@ -1,6 +1,6 @@
 ### Olá 👋, Eu sou o Giovani Alves
 
-Sou desenvolvedor full stack apaixonado por tecnologia, tenho experiência com C#, Javascript, PHP, Dart - Flutter e SQL. 
+Sou desenvolvedor full stack apaixonado por tecnologia, tenho experiência em C#, Javascript, PHP, Dart - Flutter e SQL. 
 Formado em Análise e Desenvolvimento de Sistemas pelo IFNMG - Instituto Federal do Norte de Minas Gerais.
 
 - 🌱 Desenvolvedor Full Stack
